@@ -1,0 +1,5 @@
+# dsh-cot-flow
+# 一行即可同时激活 Host 半边（空）与包的 dsh.client Web 半边（思考正文增量渲染）。
+- insert:
+    - id: cot-flow
+      name: 'dsh-cot-flow'
